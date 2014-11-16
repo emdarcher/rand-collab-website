@@ -12,3 +12,10 @@ collaborators
   - `<insert name>`
   - `<insert name>`
 
+###Some Guidelines:
+####Content should...
+  * Be legal, and morally acceptable.
+  * not contain profanity.
+  * be generally awesome.
+  * `/* list may be continued */`
+
