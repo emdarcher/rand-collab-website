@@ -5,6 +5,9 @@ Random collaborative website repo using GitHub Pages. Anything could happen, and
 
 
 collaborators
-=============
-Ethan Durrant
-Philip Huang
+-------------
+  - Ethan Durrant
+  - Philip Huang
+  - '<insert name>'
+  - '<insert name>'
+
