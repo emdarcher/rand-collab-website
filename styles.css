@@ -1,4 +1,10 @@
 
+@font-face {
+        font-family: Inconsolata;
+        src: url('./include/fonts/Inconsolata.otf');
+}
+
+
 body {
     background-color: rgb(200,200,200);
     color: rgb(0,0,0);
@@ -16,9 +22,12 @@ h1{
 }
 
 header {
-	
 }
-ul{
+#titleHead {
+	
+	font-family: "Inconsolata";
+}
+#Collaborators {
 	position: absolute;
  	right: 50px;
  	font-size: larger;
