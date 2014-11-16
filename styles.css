@@ -18,6 +18,12 @@ h1{
 header {
 	
 }
+ul{
+	position: absolute;
+ 	right: 50px;
+ 	font-size: larger;
+	color: green;
+}
 
 Credits{
 	display:inline-block;
