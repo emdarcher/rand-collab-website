@@ -8,6 +8,6 @@ collaborators
 -------------
   - Ethan Durrant
   - Philip Huang
-  - '<insert name>'
-  - '<insert name>'
+  - `<insert name>`
+  - `<insert name>`
 
