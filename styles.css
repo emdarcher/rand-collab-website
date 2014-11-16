@@ -8,7 +8,8 @@
 body {
     background-color: rgb(200,200,200);
     color: rgb(0,0,0);
-    font-family: "Open Sans", sans-serif;
+    /*font-family: "Open Sans", sans-serif;*/
+    font-family: "Inconsolata", monospace;
     text-align: center;
 }
 
@@ -32,6 +33,7 @@ header {
  	right: 50px;
  	font-size: larger;
 	color: green;
+	font-family: "Inconsolata";
 }
 
 Credits{
@@ -41,6 +43,7 @@ Credits{
 }
 
 footer {
+	font-family: "Inconsolata";
 	font-style: italic;
 	font-size: 90%;
 }
