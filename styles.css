@@ -21,14 +21,16 @@ ul {
 }
 
 #Margin-Left{
-	position: absolute;
+	float:left;
+	text-align:left;
 	Margin-Left:5px;
 }
 #Margin-Center{
 	text-align:center;
 }
 #Margin-Right{
-	position:absolute;
+	float:Right;
+	Text-align:left;
 	Margin-Right:5px;
 }
 
