@@ -22,16 +22,11 @@ h1{
 	text-align:center;
 }
 
-header {
-}
 #titleHead {
 	
 	font-family: "Inconsolata";
 }
 #Collaborators {
-	position: absolute;
- 	right: 50px;
- 	top:0px;
  	font-size: larger;
 	color: green;
 	font-family: "Inconsolata";
@@ -39,11 +34,7 @@ header {
 	background-color:black;
 }
 
-Credits{
-	display:inline-block;
-	position: absolute;
-	margin-right: 10px;
-}
+
 
 footer {
 	font-family: "Inconsolata";
