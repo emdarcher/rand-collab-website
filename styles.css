@@ -16,6 +16,10 @@ h1{
 	text-align:center;
 }
 
+ul {
+	text-align: left;
+}
+
 #Margin-Left{
 	position: absolute;
 	Margin-Left:5px;
